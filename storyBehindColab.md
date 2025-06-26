@@ -1,0 +1,6 @@
+Me (Lluís F Collell) and Bartosz Piotrowski, meet during the international week in Mons, Belgium. 
+One of the activities of the program was to develop a project in 24h implementing what we had learned during the previous days about IMU's data acquisition, ROS2 data transfering, microcontrollers (ESP32 with Arduino), Bluetooth HID applications and Godot game development, most things new to us.
+We started off by sharing some ideas about what project could include all things and we started to make an idea about what we wanted to do... So then, based on our profiles Bartosz Informatics and Electronics engineer and mine Biomedical engineer we decided to divide the work. I was more familiar with Godot than him and he was more familiar with ROS2 than me, so we separated this part, and for the harware integration and the system integration as we were both interested, we did it together.
+
+After long hours of work and hardly sleeping and eating poorly, we presented the work we had achieved to the program responsibles, and we aquired a 19/20 mark, but we still wanted to improve somethings and we decided to continue it afterwards, so we did that until today that we can present you our project.
+Hope you like it!

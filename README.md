@@ -33,10 +33,6 @@ Tilt the real-world controller to rotate the virtual maze, guiding a ball throug
 
 ---
 
-
-
----
-
 ## 🛠️ Hardware Requirements   
 - ESP32 development board  
 - ADXL345 accelerometer  
